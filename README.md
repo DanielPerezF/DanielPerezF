@@ -17,8 +17,10 @@ I am pretty much self taught on data science in Python, but I also work with MAT
 - :book: Looking forward to learn: machine learning workflow in cloud services
 - 📫 How to reach me:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram&theme=light)](https://skillicons.dev)
-<img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/97809508-77a9-4077-a5d1-a2eafc738c8f" width="50"/>(https://www.linkedin.com/in/daniel-perez-figueroa)
+<img src="https://skillicons.dev/icons?i=linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/daniel-perez-figueroa)
+<img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/97809508-77a9-4077-a5d1-a2eafc738c8f" width="20"/> [Whatsapp](https://wa.me/393206376426)
+<img src="https://skillicons.dev/icons?i=instagram" width="20"/> [Instagram](https://www.instagram.com/daniel_perezf24)
+
 
 <!--
 **DanielPerezF/DanielPerezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
