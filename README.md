@@ -1,6 +1,24 @@
-### Hi there 👋
+### Hello! 👋
 
+## About me
+My name is Daniel Perez, I am a mechanical engineer and I'm currently studying a MSc on Energy Engineering at Politecnico di Milano.
+I have a huge interest in machine learning, data visualization, AI, data science and programming in general. My main passion is integrating AI with the energy sector.
 
+## My work
+I am pretty much self taught on data science in Python, but I also work with MATLAB and VBA Excel macros. In my profile you can find several projects. There are some from university about climate change modelling, and some personal about machine learning and energy. I
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,py,matlab,github,arduino" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on a machine learning project with power plants in Latin America
+- 🌱 I’m currently learning natural language processing
+- :book: Looking forward to learn: machine learning workflow in cloud services
+- 📫 How to reach me:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin,instagram&theme=light)](https://skillicons.dev)
+<img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/97809508-77a9-4077-a5d1-a2eafc738c8f" width="50"/>(https://www.linkedin.com/in/daniel-perez-figueroa)
 
 <!--
 **DanielPerezF/DanielPerezF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
