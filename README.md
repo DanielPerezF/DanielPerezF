@@ -8,7 +8,10 @@ I have a huge interest in machine learning, data visualization, AI, data science
 I am pretty much self taught on data science in Python, but I also work with MATLAB and VBA Excel macros. In my profile you can find several projects. There are some from university about climate change modelling, and some personal about machine learning and energy. I
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,matlab,github,arduino" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,tensorflow,matlab,github&theme=light" />
+    <img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/d68248a5-5843-4e7b-b683-8f3d272e4a7f" width="48" />
+    <img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/928fbed9-53e4-4b18-897c-090802938567" width="48" />
+    <img src="https://skillicons.dev/icons?i=arduino&theme=light" />
   </a>
 </p>
 
