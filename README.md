@@ -1,4 +1,4 @@
-### Hello! 👋
+# Hello! 👋
 
 ## About me
 My name is Daniel Perez, I am a mechanical engineer and I'm currently studying a MSc on Energy Engineering at Politecnico di Milano.
@@ -17,9 +17,9 @@ I am pretty much self taught on data science in Python, but I also work with MAT
 - :book: Looking forward to learn: machine learning workflow in cloud services
 - 📫 How to reach me:
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="20"/> [LinkedIn](https://www.linkedin.com/in/daniel-perez-figueroa)
-<img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/97809508-77a9-4077-a5d1-a2eafc738c8f" width="20"/> [Whatsapp](https://wa.me/393206376426)
-<img src="https://skillicons.dev/icons?i=instagram" width="20"/> [Instagram](https://www.instagram.com/daniel_perezf24)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>](https://www.linkedin.com/in/daniel-perez-figueroa)
+[<img src="https://github.com/DanielPerezF/DanielPerezF/assets/118309576/97809508-77a9-4077-a5d1-a2eafc738c8f" width="40"/>](https://wa.me/393206376426)
+[<img src="https://skillicons.dev/icons?i=instagram" width="40"/>](https://www.instagram.com/daniel_perezf24)
 
 
 <!--
