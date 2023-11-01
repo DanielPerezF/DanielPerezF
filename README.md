@@ -15,7 +15,7 @@ I am pretty much self taught on data science in Python, but I also work with MAT
   </a>
 </p>
 
-- 🔭 I’m currently working on a machine learning project with power plants in Latin America
+- 🔭 I’m currently working on a deep learning project of RNN applied to wind turbine output prediction
 - 🌱 I’m currently learning natural language processing and app development with streamlit
 - :book: Looking forward to learn: machine learning workflow in cloud services
 - 📫 How to reach me:
